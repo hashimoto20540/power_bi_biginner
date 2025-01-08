@@ -4,9 +4,9 @@
 書籍を一冊ハンズオンで取り組んだ。
 
 # OUTPUT
-power_bi_desktop概要レポート.png
-power_bi_desktop影響分析レポート.png
-power_bi_desktop分解分析レポート.png
+- power_bi_desktop概要レポート.png
+- power_bi_desktop影響分析レポート.png
+- power_bi_desktop分解分析レポート.png
 
 # 学んだこと
 - 環境構築
