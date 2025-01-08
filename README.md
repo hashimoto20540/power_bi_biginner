@@ -61,8 +61,7 @@ power_bi_desktop分解分析レポート.png
 https://frogwell.co.jp/blogs/powerbi-map/
 
 # 苦労点
-- 会社や学生用のMicroSoftアカウントがなくpowerBIが使えなかった点
-- サブスクを購入するにも、何が対応できているか読み解く力が足りなかった
+- 会社や学生用のMicroSoftアカウントがなくpowerBIが使えなかった点→サブスクを購入するにも、何が対応できているか読み解く力が足りなかった
     - もともとMicroSoft365Personalを使用していたが、それでできるか試していたができず。
     - 書籍には、Microsoft 365 Developer Program（Microsoft 365開発者プログラム）を使用すれば無料でできると記載されていたが、Instant sandboxの画面に遷移せず。Power BI以外のwordとかは使用できた。
     - エラーをググると、
@@ -76,8 +75,8 @@ https://frogwell.co.jp/blogs/powerbi-map/
         - Power BIサービスの利用は、職場や学校の、組織アカウントが必要
         https://www.powerplatformknowledge.com/powerbi-howtouse-basic5step/
         - Microsoft 365 Business Basicを無料で試した
-            - 決済でエラーになって購入はしなかったが、会社用のアカウントは作成された
-            - 〇〇〇〇@〇〇〇[.onmicrosoft.com](mailto:hashikazu20540@hashimoto102.onmicrosoft.com)という形式のアカウント
+            - 決済でエラーになってクレジットカードの登録はしなかったが、たまたま会社用のアカウントは作成された
+            - 〇〇〇〇@〇〇〇[.onmicrosoft.com](mailto:hashikazu20540@hashimoto102.onmicrosoft.com)という形式のアカウントが作成された
     - 会社用のMicroSoftアカウントでpower BI DeskTopと、power BI serviceを利用することができた
     - 職場または学校のメール アカウントがない場合でも、Power BI Pro または Fabric (無料) の試用版を開始できるとのこと。
         - https://learn.microsoft.com/ja-jp/power-bi/fundamentals/service-self-service-signup-purchase-for-power-bi?tabs=trial
