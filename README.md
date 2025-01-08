@@ -1,7 +1,7 @@
 # power_bi_biginner
 
 # 概要
-書籍を一冊ハンズオンで取り組んだ。
+書籍を一冊ハンズオンで取り組んだ
 
 # OUTPUT
 - power_bi_desktop概要レポート.png
@@ -62,8 +62,8 @@ https://frogwell.co.jp/blogs/powerbi-map/
 
 # 苦労点
 - 会社や学生用のMicroSoftアカウントがなくpowerBIが使えなかった点→サブスクを購入するにも、何が対応できているか読み解く力が足りなかった
-    - もともとMicroSoft365Personalを使用していたが、それでできるか試していたができず。
-    - 書籍には、Microsoft 365 Developer Program（Microsoft 365開発者プログラム）を使用すれば無料でできると記載されていたが、Instant sandboxの画面に遷移せず。Power BI以外のwordとかは使用できた。
+    - もともとMicroSoft365Personalを使用していたが、それでできるか試していたができず
+    - 書籍には、Microsoft 365 Developer Program（Microsoft 365開発者プログラム）を使用すれば無料でできると記載されていたが、Instant sandboxの画面に遷移せず。Power BI以外のwordとかは使用できた
     - エラーをググると、
         - 2024/2まで、アカウント発行が一時停止中
         https://learn.microsoft.com/ja-jp/answers/questions/1531154/microsoft365-sandbox-subscription
@@ -78,6 +78,6 @@ https://frogwell.co.jp/blogs/powerbi-map/
             - 決済でエラーになってクレジットカードの登録はしなかったが、たまたま会社用のアカウントは作成された
             - 〇〇〇〇@〇〇〇[.onmicrosoft.com](mailto:hashikazu20540@hashimoto102.onmicrosoft.com)という形式のアカウントが作成された
     - 会社用のMicroSoftアカウントでpower BI DeskTopと、power BI serviceを利用することができた
-    - 職場または学校のメール アカウントがない場合でも、Power BI Pro または Fabric (無料) の試用版を開始できるとのこと。
+    - 職場または学校のメール アカウントがない場合でも、Power BI Pro または Fabric (無料) の試用版を開始できるとのこと
         - https://learn.microsoft.com/ja-jp/power-bi/fundamentals/service-self-service-signup-purchase-for-power-bi?tabs=trial
 
