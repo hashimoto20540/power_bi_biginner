@@ -66,9 +66,9 @@
 - マップが表示されない
 https://frogwell.co.jp/blogs/powerbi-map/
 
-# 苦労点
-- 会社や学生用のMicroSoftアカウントがなくpowerBIが使えなかった点→サブスクを購入するにも、何が対応できているか読み解く力が足りなかった
-    - もともとMicroSoft365Personalを使用していたが、それでできるか試していたができず
+# アカウント作成について
+- 結論：会社や学生用のMicroSoftアカウントがなくpowerBIが使えなかった。会社用のアカウントを作成して利用できた
+    - もともとMicroSoft365Personalを使用していたが、それでできるか試していたができなかった
     - 書籍には、Microsoft 365 Developer Program（Microsoft 365開発者プログラム）を使用すれば無料でできると記載されていたが、Instant sandboxの画面に遷移せず。Power BI以外のwordとかは使用できた
     - エラー文: Thank you for joining. You don't current qualify for a Microsoft 365 Developer Program sandbox subscription.
 For details about Developer Program member benefits, see the Microsoft 365 Developer Program FAQ.
